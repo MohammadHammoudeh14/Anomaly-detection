@@ -10,7 +10,7 @@ Generate dataset
 Fit KMeans model
 Calculate distances to centroids
 Mark distant points as anomalies
-Visualize clusters and anomaly points
+Visualize results
 Requirements
 Python 3.x
 scikit-learn
@@ -18,4 +18,4 @@ matplotlib
 seaborn
 numpy
 Visualizations
-The project includes plots showing cluster assignments and detected anomalies.
+The project includes plots showing clusters and highlighted anomaly points.
